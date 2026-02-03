@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# TODO: Refactor seasonal logic using a dictionary (Resolved in Issue #2)
+# TODO: Add professional docstrings and comments (Resolved in Issue #3)
 def get_gardening_advice(month):
     if month == "January":
         return "Prune your fruit trees."
@@ -47,4 +48,3 @@ def main():
 
 if __name__ == "__main__":
     main()
->>>>>>> b14fa26 (Complete refactor with dictionary and docs)
